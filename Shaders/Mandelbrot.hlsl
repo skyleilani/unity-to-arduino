@@ -1,3 +1,4 @@
+// shader based on https://www.youtube.com/watch?v=kY7liQVPQSc
 //  z = z^2+c
 
 Shader "Explorer/Mandelbrot"
